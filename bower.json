@@ -1,0 +1,29 @@
+{
+  "name": "brightspace-ui-collection",
+  "description": "A set of accessible, free, open-source web components for building Brightspace applications",
+  "main": "brightspace-ui-collection.html",
+  "keywords": [
+    "brightspace-ui",
+    "d2l",
+    "webcomponents",
+    "web-components",
+    "element-collection"
+  ],
+  "license": "Apache-2.0",
+  "ignore": [],
+  "dependencies": {
+    "d2l-button": "^4.0.0",
+    "d2l-checkbox": "^0.1.2",
+    "d2l-colors": "^3.1.0",
+    "d2l-dropdown": "^6.0.1",
+    "d2l-file-uploader": "^0.2.0",
+    "d2l-hierarchical-view": "^1.0.1",
+    "d2l-icons": "^4.4.1",
+    "d2l-image-action": "^2.0.0",
+    "d2l-link": "^4.0.0",
+    "d2l-menu": "^1.0.2",
+    "d2l-progress": "^0.0.2",
+    "d2l-text-input": "^0.0.2",
+    "d2l-typography": "^6.0.0"
+  }
+}
